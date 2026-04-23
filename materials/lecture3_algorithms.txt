@@ -1,0 +1,21 @@
+# Lecture 3: Algorithms and Problem Solving
+
+## What is an Algorithm?
+An algorithm is a finite sequence of well-defined instructions, typically used to solve a class of specific problems or to perform a computation.
+
+## Big O Notation
+Big O notation is used to describe the efficiency of an algorithm in terms of time and space complexity.
+- **O(1)**: Constant time
+- **O(n)**: Linear time
+- **O(log n)**: Logarithmic time
+- **O(n^2)**: Quadratic time
+
+## Common Algorithms
+### 1. Linear Search
+Iterates through each element in a list until the target is found. Complexity: O(n).
+
+### 2. Binary Search
+Finds the position of a target value within a sorted array. It compares the target value to the middle element. Complexity: O(log n).
+
+### 3. Sorting Algorithms
+Examples include Bubble Sort, Merge Sort, and Quick Sort. Merge Sort has a complexity of O(n log n).

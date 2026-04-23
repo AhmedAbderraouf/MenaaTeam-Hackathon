@@ -1,0 +1,20 @@
+# Pinned to versions tested together. Bump deliberately: LangChain minor
+# releases have repeatedly broken embedding / chat-model APIs in this repo.
+streamlit==1.56.0
+python-dotenv==1.2.2
+langchain==1.2.15
+langchain-openai==1.1.15
+langchain-community==0.4.1
+langchain-text-splitters==1.1.2
+langchain-google-genai==4.2.2
+langchain-huggingface==1.2.2
+sentence-transformers==5.4.1
+langgraph==1.1.8
+faiss-cpu==1.13.2
+pypdf==6.10.2
+# Optional — enables typo-tolerant retrieval queries ("fiar" -> "fair")
+pyspellchecker==0.9.0
+# Optional — enables the 🌐 Web search toggle in the Q&A tab (no API key)
+ddgs==9.14.1
+# Testing
+pytest==8.3.4

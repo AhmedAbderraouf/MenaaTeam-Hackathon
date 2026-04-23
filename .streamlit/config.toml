@@ -1,0 +1,4 @@
+[server]
+# Max bytes per uploaded file at the web-server layer. The app's own
+# per-session + per-file caps live in rate_limiter.py.
+maxUploadSize = 200

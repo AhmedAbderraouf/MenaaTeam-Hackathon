@@ -1,0 +1,17 @@
+# Lecture 2: Data Structures
+
+## Lists
+Lists are used to store multiple items in a single variable. They are ordered, changeable, and allow duplicate values.
+Example: `fruits = ["apple", "banana", "cherry"]`
+
+## Tuples
+Tuples are used to store multiple items in a single variable. They are ordered and unchangeable.
+Example: `coordinates = (10, 20)`
+
+## Dictionaries
+Dictionaries are used to store data values in key:value pairs. They are ordered (since Python 3.7), changeable, and do not allow duplicates.
+Example: `student = {"name": "John", "age": 20}`
+
+## Sets
+Sets are used to store multiple items in a single variable. They are unordered, unchangeable, and unindexed.
+Example: `unique_ids = {1, 2, 3}`

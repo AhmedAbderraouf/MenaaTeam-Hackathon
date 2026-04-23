@@ -1,0 +1,20 @@
+# Lecture 1: Introduction to Python
+
+## What is Python?
+Python is a high-level, interpreted, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
+
+## Key Features
+- **Easy to read**: Python code is often compared to English.
+- **Interpreted**: You run the code directly without a separate compilation step.
+- **Large standard library**: Batteries included!
+- **Dynamic typing**: You don't need to declare variable types.
+
+## Variables and Data Types
+In Python, variables are created the moment you assign a value to them.
+- `x = 5` (Integer)
+- `y = "Hello"` (String)
+- `z = 3.14` (Float)
+- `is_valid = True` (Boolean)
+
+## Basic Arithmetic
+Python uses standard operators: `+`, `-`, `*`, `/`, `//` (floor division), `%` (modulo), and `**` (exponentiation).
